@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toast.makeText(this,"这是Clone的版本",Toast.LENGTH_SHORT).show();
         Toast.makeText(this,"这是 master本地 的版本",Toast.LENGTH_SHORT).show();
-        Toast.makeText(this,"这是 branch2 的版本",Toast.LENGTH_SHORT).show();
+        Toast.makeText(this,"这是 branch2 的版本重新修改",Toast.LENGTH_SHORT).show();
     }
 }
