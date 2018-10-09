@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"这是Clone的版本",Toast.LENGTH_SHORT).show();
         Toast.makeText(this,"这是 111master1本地 的重新修改版本333333314446666dafadfsdf",Toast.LENGTH_SHORT).show();
         Toast.makeText(this,"这是 master2本地 123",Toast.LENGTH_SHORT).show();
-        Toast.makeText(this,"这是 branch2 的版本重新修改232323点点滴滴3333377773",Toast.LENGTH_SHORT).show();
+        Toast.makeText(this,"这是 branch2 的版本重新修改232323点点滴滴333337777399999",Toast.LENGTH_SHORT).show();
     }
 }
